@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "pl.asseco.store",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "store",
+        "packageName": "pl.asseco.store",
+        "packageFolder": "pl/asseco/store",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ODg4YzI2MzkyZjI0OWQwNjExZWI1ZTUxMDZjMDcwNDMyMGY1ZjE1YWQ1ZjM1ODdiZTdmYWY2ZmM3OWI3OGE4MjhkNGYxNzMyOGJmMTY3MWIxMGI3Mzc0NWMxMTc5NmFiYzE4ZDE1MTE4ZDQxMzAwYjZhNTVkODY1MGI2YWUyNjY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
